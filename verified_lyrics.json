@@ -1,5 +1,10 @@
 {
   "Hymn": {
+    "1": {
+      "verifiedAt": "2026-11-20",
+      "ticket": "CHB-116",
+      "by": "maintainer"
+    },
     "2": {
       "verifiedAt": "2026-11-20",
       "ticket": "CHB-440",
