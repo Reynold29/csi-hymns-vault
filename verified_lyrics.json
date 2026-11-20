@@ -19,6 +19,11 @@
       "verifiedAt": "2026-11-20",
       "ticket": "CHB-130",
       "by": "maintainer"
+    },
+    "5": {
+      "verifiedAt": "2026-11-20",
+      "ticket": "manual-review",
+      "by": "maintainer"
     }
   }
 }
