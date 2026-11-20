@@ -9,6 +9,11 @@
       "verifiedAt": "2026-11-20",
       "ticket": "CHB-440",
       "by": "maintainer"
+    },
+    "3": {
+      "verifiedAt": "2026-11-20",
+      "ticket": "CHB-165",
+      "by": "maintainer"
     }
   }
 }
